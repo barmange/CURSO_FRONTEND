@@ -90,3 +90,17 @@ section h2 {
 background-color: chocolate;
 color: bisque;
 }
+#Tecnology {
+    background-color: lightblue;
+}
+#Tecnology .articles article a {
+    background-color: rgb(23, 92, 92);
+    color:aliceblue;
+}
+#Entretenimento {
+    background-color: antiquewhite;
+}
+#Entretenimento .articles article a {
+    background-color: burlywood;
+    color: black;
+}
